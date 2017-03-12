@@ -7,6 +7,16 @@ We **do not** condone the use of our code for harmful purposes.
 
 This document is subject to change and will be updated and improved over time.
 
+## Scope
+
+The following applications fall under the scope of Project Mayhem:
+
+- General malware (Trojans, Worms, Botnets, that kinda stuff)
+- Proof-of-concept exploits (Heartbleed, Slow Loris, etc)
+- Command-and-control servers and libraries
+- Crypters and packers
+- Obfuscators and de-obfuscators
+
 ## Rules
 
 ### Starting a new project
@@ -36,6 +46,9 @@ On the contrary, **exploits and utilities** should be written in a **mainstream 
 They should be easy to use, run on a wide variety of platforms, and ideally without much or any configuration.
 
 Languages like Ruby, Python and Node/JavaScript are preferred, since they are well-known, easy to work with, and have big package ecosystems that allow for rapid development and lower code complexity.
+
+The aforementioned programming languages are _not a strict requirement_.   
+Other programming languages are allowed, but please use good judgement.
 
 
 [osi-approved]: https://opensource.org/licenses
