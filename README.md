@@ -16,6 +16,7 @@ The following applications fall under the scope of Project Mayhem:
 - Command-and-control servers and libraries
 - Crypters and packers
 - Obfuscators and de-obfuscators
+- Disassemblers
 
 ## Rules
 
